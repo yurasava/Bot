@@ -1,0 +1,38 @@
+{
+  "update_id": 170363104,
+  "message": {
+    "superGroupMessage": false,
+    "chatId": 453309853,
+    "groupMessage": false,
+    "userMessage": true,
+    "channelMessage": false,
+    "command": true,
+    "reply": false,
+    "message_id": 7,
+    "from": {
+      "bot": false,
+      "id": 453309853,
+      "first_name": "Юрий",
+      "is_bot": false,
+      "language_code": "ru"
+    },
+    "date": 1614551721,
+    "chat": {
+      "groupChat": false,
+      "userChat": true,
+      "channelChat": false,
+      "superGroupChat": false,
+      "id": 453309853,
+      "type": "private",
+      "first_name": "Юрий"
+    },
+    "text": "abracadabra",
+    "entities": [
+      {
+        "type": "bot_command",
+        "offset": 0,
+        "length": 6
+      }
+    ]
+  }
+}
