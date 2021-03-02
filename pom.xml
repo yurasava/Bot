@@ -15,6 +15,10 @@
 	<description>My Demo telegram bot</description>
 	<properties>
 		<java.version>11</java.version>
+		<sonar.projectKey>yurasava_Bot</sonar.projectKey>
+		<sonar.organization>yurasava</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonar.login>69b2c85801b666d65356c03a3c389df3face1cf0</sonar.login>
 	</properties>
 	<dependencies>
 		<dependency>
